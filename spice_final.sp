@@ -20,4 +20,3 @@ R1 8 9 9K
 D2 9 0 PNPDIODE 8   
 R2 vref 10 76K    
 D3 10 0 PNPDIODE 8   
-Rl vref 0 100MEG    
