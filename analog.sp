@@ -10,8 +10,8 @@ M7 6 6 7 0 nfet W=14u L=1u
 M8 4 6 8 0 nfet W=14u L=1u
 M_pd 6 en_bar 0  0 nfet W=8U L=1U
 M_pass 4 en 4x 0 nfet W=2U L=2U
-*Minv_p en_bar en 1 1 pfet W=3U L=1U
-*Minv_n en_bar en 0 0 nfet W=2U L=1U
+Minv_p en_bar en 1 1 pfet W=3U L=1U
+Minv_n en_bar en 0 0 nfet W=2U L=1U
 
 M9 a 2 1 1 pfet W=12U L=1u
 M10 6 a 4x 1 pfet W=12U L=0.8U
