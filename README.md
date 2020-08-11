@@ -46,11 +46,11 @@ The algorithm takes majorly 2 values. They are -->
 
 Command to run the algorithm is as follows.
 ```
-$  g++ EulerTrail.cpp
+$  g++ EulerTrail.cpp -o EulerTrail
 ```
 
 ```
-$  ./a.out < inputs.txt
+$  ./EulerTrail < inputs.txt
 ```
 
 You get the following output. This is the Euler Path for the combined graph
@@ -73,7 +73,7 @@ You get the following output. This is the Euler Path for the combined graph
 **Sethupathi Balakrishnan**
 
 ## Acknowledgments
-- Phillip
+- Philipp
 - Kunal Ghosh
 
 Contact Information
