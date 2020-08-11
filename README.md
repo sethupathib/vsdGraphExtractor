@@ -65,8 +65,13 @@ You get the following output. This is the Euler Path for the combined graph
  - Graph Splitting. Need to go through this. It's very important. As of this moment, the algorithm only returns the Euler Path for the Combined (PMOS + NMOS) graph.  
  - Layouting.
  - Routing the Layout.
+ - Pass Transistor's. Layouting for pass transistor logic is a bit complicated as it requires adding dummy nodes/edges and forming the graph.
 
- 
+## Note
+
+ - A usable version of this software is available [**here**](https://codeberg.org/tok/librecell). It has been developed by Thomas Kramer. (PhD @ ETH-Zurich).
+ - This objective of this project is to replicate the work done by Thomas thereby getting an exponential learning curve.
+ - The usage of the tool is quite basic. However, developing the entire toolchain from scratch was a major challenge. 
  
 ## Author
 
