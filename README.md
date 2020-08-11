@@ -43,7 +43,8 @@ Step 2 -- Feed the extracted file to the Euler Trail finding algorithm. Source c
 The algorithm takes majorly 2 values. They are -->
 1. Total number of edges.
 2. The Edge List.
-For eg. 
+
+Command to run the algorithm is as follows.
 ```
 $  g++ EulerTrail.cpp
 ```
