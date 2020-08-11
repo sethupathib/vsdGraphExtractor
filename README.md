@@ -55,7 +55,7 @@ $  ./EulerTrail < inputs.txt
 
 You get the following output. This is the Euler Path for the combined graph
 <p align="center">
-  <img width="900" height="50" src="Images/Screenshot 2020-08-11 at 4.35.09 PM.png">
+  <img width="900" height="50" src="Intermediate_Outputs/sample_output.png">
 </p> 
 
    
