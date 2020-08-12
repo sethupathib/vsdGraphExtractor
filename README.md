@@ -68,7 +68,7 @@ You get the following output. This is the Euler Path for the combined graph
  - Pass Transistor's. Layouting for pass transistor logic is a bit complicated as it requires adding dummy nodes/edges and forming the graph.
  - Random Graph Generator (This is important for testing the algorithm)
  - To know more about bridges and articulation points in a graph. 
- - 
+ - I need to solve a lot of problems and get to know about some advanced concepts like Dynamic Programming and Memoization applied on graphs.
 
 ## Note
 
