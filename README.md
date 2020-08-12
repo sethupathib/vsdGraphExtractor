@@ -1,7 +1,9 @@
 # Layout Generator
 
 This repository cointains source code that converts a spice netlist (digital) to its corresponding layout. The layout is generated using the Open Source Tool named Magic. Here, **fn.sp** contains the spice netlist of the function **Y = ~[(B+D).(A+C)+(E.F)].** 
-We're trying to automatically generate layout for this boolean fuction. This project is initially built for digital circuits and later to be scaled/modified for analog circuits.
+We're trying to automatically generate layout for this boolean fuction. This project is initially built for digital circuits and later to be scaled/modified for analog circuits. 
+
+**The project is in a very early stage and might not yet be ready for productive use.**
 
 **Assumptions** -- The Design Engineer/Characterization Engineer has designed the circuit and performed the circuit simulations and has generated the spice netlist. A tutorial on how to perform circuit simulations using **ngspice** can be found [**here**](https://github.com/sherylcorina/avsdbgp_3v3). 
 
