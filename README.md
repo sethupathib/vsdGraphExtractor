@@ -13,7 +13,7 @@ A very brief description of this project can be found [**here**](https://www.vls
 2. Knowledge of Graphs.
 3. Knowledge of grep/awk/sed & tcl.
 
-You can get proficient in programming by following the steps given [**here**](https://medium.com/@sethupathibalakrishnan/my-experiences-on-anything-and-everything-in-life-231eb4699609) in the Competitive Programming Section.
+You can get proficient in programming by following the steps given [**here**](https://medium.com/@sethupathibalakrishnan/my-experiences-on-anything-and-everything-in-life-231eb4699609) in the Competitive Programming Section. A tutorial on finding the Euler Path can be found [**here**](https://www.youtube.com/watch?v=8MpoO2zA2l4&t=11s).
 The layouts are drawn using Magic Layout Tool. Installation instructions can be found [**here**](https://www.udemy.com/course/vsd-a-complete-guide-to-install-open-source-eda-tools/).
 ## Conventional Work Flow
 
