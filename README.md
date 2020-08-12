@@ -3,7 +3,7 @@
 This repository cointains source code that converts a spice netlist (digital) to its corresponding layout. The layout is generated using the Open Source Tool named Magic. Here, **fn.sp** contains the spice netlist of the function **Y = ~[(B+D).(A+C)+(E.F)].** 
 We're trying to automatically generate layout for this boolean fuction. This project is initially built for digital circuits and later to be scaled/modified for analog circuits.
 
-**Assumptions** -- The Design Engineer/Characterization Engineer has designed the circuit and performed the circuit simulations. A tutorial on how to perform circuit simulations using **ngspice** can be found [**here**](https://github.com/sherylcorina/avsdbgp_3v3). 
+**Assumptions** -- The Design Engineer/Characterization Engineer has designed the circuit and performed the circuit simulations and has generated the spice netlist. A tutorial on how to perform circuit simulations using **ngspice** can be found [**here**](https://github.com/sherylcorina/avsdbgp_3v3). 
 
 A very brief description of this project can be found [**here**](https://www.vlsisystemdesign.com/ip/). This work has been carried out by going through Mr. Kunal Ghosh's lecture on Custom Layout. You can have a look at the course [**here**](https://www.udemy.com/course/vlsi-academy-custom-layout/).
 
