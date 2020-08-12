@@ -79,6 +79,7 @@ You get the following output. This is the Euler Path for the combined graph
  - The usage of the tool is quite basic. However, developing the entire toolchain from scratch was a major challenge. 
  - A CS grad can crack this problem with a little effort. However, I am not from CS. Hence, it took me a lot of time to get acquainted with CS concepts.
  - The usage of the tool is quite basic. However, developing the entire toolchain from scratch was a major challenge. 
+ - Euler Path finding problem is a DIV-2/D problem on codeforces.com.
  
 ## Author
 
