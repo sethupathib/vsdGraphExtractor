@@ -60,10 +60,40 @@ A brief document on this layout_generator flow can be found [**here**](Documenta
 
 ## Details
 
+Step 0 -- Clone the repository
+```
+$  git clone https://github.com/sethupathib/final_layout_generator.git
+```
+
 Step 1 -- Extract edges/node information from the spice netlist.
 The edges and node details are extracted from the Netlist using grep+awk+sed. (There is some work that is to be done here).
 The shell script to extract the node/edge details can be found [**here**](Source_Code/read_spice.sh). 
 The extracted file has to be further processed to feed the algorithm to get the Euler Trail. (Work Pending)
+
+- Change directory to "Execution"
+```
+$  cd Execution
+```
+- Run the shell script.
+```
+$  source read_spice.sh
+```
+- You get the following ouput.
+<p align="center">
+  <img width="750" height="350" src="Images/output1.png">
+</p>
+
+- Input & Output File Comparison
+<p align="center">
+  <img width="750" height="350" src="Images/output2.png">
+</p>
+
+- This output file needs some more processing to be fed to the algorithm. (I'm currently work on this right now). Comparison of the obtained file and the file format that the algorithm requires -->
+<p align="center">
+  <img width="750" height="450" src="Images/compare1.png">
+</p>
+
+
 
 Step 2 -- Feed the extracted file to the Euler Trail finding algorithm. Source code for the algorithm can be found [**here**](Source_Code/EulerTrail.cpp).
 The algorithm takes majorly 2 values. They are -->
