@@ -9,6 +9,30 @@ We're trying to automatically generate layout for this boolean fuction. This pro
 
 A very brief description of this project can be found [**here**](https://www.vlsisystemdesign.com/ip/). This work has been carried out by going through Mr. Kunal Ghosh's lecture on Custom Layout. You can have a look at the course [**here**](https://www.udemy.com/course/vlsi-academy-custom-layout/).
 
+## Description
+
+1. The first step is to extract the graph information (edges & nodes etc) from the spice netlist.
+<p align="center">
+  <img width="750" height="400" src="Images/ckt_layout.png">
+</p>
+
+2. The second step is to generate the Euler Path (common to both PMOS & NMOS networks) from the graph for optimal placement of Poly's.
+<p align="center">
+  <img width="750" height="400" src="Images/ckt_layout1.png">
+</p>
+
+3. Next, we paint the layout using the stick diagram.
+<p align="center">
+  <img width="750" height="400" src="Images/ckt_layout2.png">
+</p>
+<p align="center">
+  <img width="750" height="400" src="Images/ckt_layout3.png">
+</p>
+4. Final Step - DRC Check/Clean
+<p align="center">
+  <img width="750" height="400" src="Images/ckt_layout4.png">
+</p>
+
 **Note** -- There are some pre-requisites to understand/reproduce this project.
 
 1. Working Knowledge of Data Structures and Algorithms in any programming language. I have used C++ here. 
