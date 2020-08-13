@@ -80,7 +80,7 @@ $  source read_spice.sh
 ```
 - You get the following ouput.
 <p align="center">
-  <img width="750" height="350" src="Images/output1.png">
+  <img width="750" height="300" src="Images/output1.png">
 </p>
 
 - Input & Output File Comparison
