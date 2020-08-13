@@ -85,7 +85,7 @@ $  source read_spice.sh
 
 - Input & Output File Comparison
 <p align="center">
-  <img width="750" height="350" src="Images/output2.png">
+  <img width="750" height="400" src="Images/output2.png">
 </p>
 
 - This output file needs some more processing to be fed to the algorithm. (I'm currently work on this right now). Comparison of the obtained file and the file format that the algorithm requires -->
