@@ -140,9 +140,11 @@ You get the following output. This is the Euler Path for the combined graph
 **Sethupathi Balakrishnan**
 
 ## Acknowledgments
-- Philipp
-- Kunal Ghosh
+- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
+- Philipp Gühring, Software Architect, LibreSilicon Assocation
 
 Contact Information
 ===================================
-- SETHUPATHI BALAKRISHNAN
+- Sethupathi Balakrishnan, SoC Design Engineer
+- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
+- Philipp Gühring, Software Architect, LibreSilicon Assocation, pg@futureware.at
