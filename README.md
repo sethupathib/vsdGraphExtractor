@@ -145,6 +145,6 @@ You get the following output. This is the Euler Path for the combined graph
 
 Contact Information
 ===================================
-- Sethupathi Balakrishnan, SoC Design Engineer
+- Sethupathi Balakrishnan, SoC Design Engineer, b.sethupathi@gmail.com
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
 - Philipp Gühring, Software Architect, LibreSilicon Assocation, pg@futureware.at
