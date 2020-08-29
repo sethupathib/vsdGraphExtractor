@@ -167,13 +167,14 @@ You get the following output. This is the Euler Path for the combined graph
 
 ## Note
 
- - This project was initially aimed at generating Analog Layouts. However, that seemed to be an Herculean task. So, we tried for Digital Layouts. There are still a lot of things to be done. (Layouts for various PDK's, DRC's etc). While researching about this, we discovered another project that does the exact same thing. You can find it [**here**](https://github.com/ALIGN-analoglayout/ALIGN-public). This is a massive project involving multi-org & multi-institutional NDA's and top researchers in the world and  funded by DARPA, Department of Defense, USA.
+ - This project was initially aimed at generating Analog Layouts. However, that seemed to be an Herculean task. So, we tried for Digital Layouts. There are still a lot of things to be done. (Layouts for various PDK's, DRC's etc). While researching about this, we discovered another project that does the exact same thing. You can find it [**here**](https://github.com/ALIGN-analoglayout/ALIGN-public). **This is a massive project involving multi-org & multi-institutional NDA's and top researchers in the world and  funded by DARPA, Department of Defense, USA.**
  - A usable version of this software is available [**here**](https://codeberg.org/tok/librecell). It has been developed by Thomas Kramer. (PhD @ ETH-Zurich).
  - This objective of this project is to replicate the work done by Thomas thereby getting an exponential learning curve.
  - The usage of the tool is quite basic. However, developing the entire toolchain from scratch was a major challenge. 
  - A CS grad can crack this problem with a little effort. However, I am not from CS. Hence, it took me a lot of time to get acquainted with CS concepts.
  - Euler Path finding problem is a DIV-2/D problem on codeforces.com.
- - [**Euler Path Finding on a Undirected Graph.**](https://cp-algorithms.com/graph/euler_path.html)
+ - [**Euler Path Finding on an Undirected Graph.**](https://cp-algorithms.com/graph/euler_path.html)
+ 
 
  
 ## Author
