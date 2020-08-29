@@ -158,12 +158,13 @@ You get the following output. This is the Euler Path for the combined graph
  
  - The file conversion needs to be worked upon. 
  - Graph Splitting. Need to go through this. It's very important. As of this moment, the algorithm only returns the Euler Path for the Combined (PMOS + NMOS) graph.  
- - Layouting.
+ - Layouting for the given PDK's seems to be a very hard task.
  - Routing the Layout. (This seems to an extremely difficult task mainly because it is done after placing the poly's in the design)
  - Pass Transistor's. Layouting for pass transistor logic is a bit complicated as it requires adding dummy nodes/edges and forming the graph.
  - Random Graph Generator (This is important for testing the algorithm)
  - To know more about bridges and articulation points in a graph. 
  - I need to solve a lot of problems and get to know about some advanced concepts like Dynamic Programming and Memoization applied on graphs.
+ 
 
 ## Note
 
