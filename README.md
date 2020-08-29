@@ -58,6 +58,45 @@ This project is an attempt to reduce the **Engineering Effort** that is put in d
 
 A brief document on this layout_generator flow can be found [**here**](Documentation/Layout_generator.pdf). 
 
+## Euler Path Existence (pseudo-code)
+**Input : Graph containing vertices and edges**.<br/>
+**Output : Returns Euler Path Existence**.<br/>
+There are basically 4 methods
+
+1. addEdge
+2. DFS
+3. isConnected
+4. isEulerean
+
+---------------------
+***0. Initialize graph 'adj' and no. of Vertices V***<br/>
+***1. addEdge(node1, node2)***<br/> <br/>
+***2. DFS(vertex, visited[])***<br/>
+***3. visited[vertex] <- true***     //Mark the current node as visited <br/>
+***4. list <*** ***int> :: iterator node*** //initialize iterator to adjacency list <br/>
+***5. foreach (node in adj)*** <br/>
+***6. if(!visited[i])*** <br/>
+***7. DFS(i,visited)*** //recursive call <br/> <br/>
+***8. isConnected()*** //method to check if the graph is connected<br/>
+***9. foreach (i in V)*** <br/>
+***10. visited[i] <- false*** //mark all nodes as not visited <br/>
+***11. foreach(i in V)*** //Find vertex with non-zero degree <br/>
+***12. if (adj[i].size() != 0) break;*** <br/>
+***13. if(i==V) return true***   
+***14. DFS(i,visited)*** <br/>
+***15. foreach(i in V)*** <br/>
+***16. if(visited[i]==false & adj[i].size>0) return false else return true*** <br/><br/>
+***17. isEulerean()*** <br/>
+***18. if(isConnected==false) return 0*** <br/>
+   
+/* 0 --> If graph is not Eulerian <br/>
+   1 --> If graph has an Euler path (Semi-Eulerian) <br/>
+   2 --> If graph has an Euler Circuit (Eulerian) */<br/><br/> 
+***19. foreach(i in V)***   
+***20. if(adj[i].size() & 1) odd++***      
+***21. if(odd>2) return 0 else return (odd)?1:2***      
+   
+---------------------
 ## Details
 
 Step 0 -- Clone the repository
@@ -134,6 +173,8 @@ You get the following output. This is the Euler Path for the combined graph
  - The usage of the tool is quite basic. However, developing the entire toolchain from scratch was a major challenge. 
  - A CS grad can crack this problem with a little effort. However, I am not from CS. Hence, it took me a lot of time to get acquainted with CS concepts.
  - Euler Path finding problem is a DIV-2/D problem on codeforces.com.
+ - [**Euler Path Finding on a Undirected Graph.**](https://cp-algorithms.com/graph/euler_path.html)
+
  
 ## Author
 
