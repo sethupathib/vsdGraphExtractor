@@ -61,7 +61,7 @@ A brief document on this layout_generator flow can be found [**here**](Documenta
 ## Euler Path Existence (pseudo-code)
 **Input : Graph containing vertices and edges**.<br/>
 **Output : Returns Euler Path Existence**.<br/>
-There are basically 4 methods
+There are basically 4 methods. (Note: This is the pseudo code for Euler Path Existence and not for Euler Path Generation.)
 
 1. addEdge
 2. DFS
