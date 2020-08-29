@@ -182,7 +182,7 @@ You get the following output. This is the Euler Path for the combined graph
  
 ## Author
 
-**Sethupathi Balakrishnan, Ex-Qualcomm P&R Engineer**
+**Sethupathi Balakrishnan**
 
 ## Acknowledgments
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
