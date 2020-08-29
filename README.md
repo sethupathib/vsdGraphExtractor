@@ -175,6 +175,7 @@ You get the following output. This is the Euler Path for the combined graph
  - A CS grad can crack this problem with a little effort. However, I am not from CS. Hence, it took me a lot of time to get acquainted with CS concepts.
  - Euler Path finding problem is a DIV-2/D problem on codeforces.com.
  - [**Euler Path Finding on an Undirected Graph.**](https://cp-algorithms.com/graph/euler_path.html)
+ - [**Bridges in a Graph**](https://codeforces.com/blog/entry/68138)
  
 
  
