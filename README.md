@@ -53,7 +53,7 @@ This project is an attempt to reduce the **Engineering Effort** that is put in d
 ## Layout Generation Engine (An abstract flow diagram)
 
 <p align="center">
-  <img width="750" height="450" src="Images/tool_flow-2.jpg">
+  <img width="750" height="450" src="Images/flow_with_PDK.png">
 </p>
 
 A brief document on this layout_generator flow can be found [**here**](Documentation/Layout_generator.pdf). 
