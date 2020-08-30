@@ -166,11 +166,12 @@ You get the following output. This is the Euler Path for the combined graph
  - I need to solve a lot of problems and get to know about some advanced concepts like Dynamic Programming and Memoization applied on graphs.
  - Running ALIGN on the reference designs and getting a functionally correct and DRC clean layout.
  
-
+## Major Contributions by the Author
+ - There were two major things that created a lot of impact. 
+ 1. Graph Extraction and Euler Path Generation.
+ 2. Researching about various other projects on GitHub that does "Analog Layouting". That's where I found out about [**ALIGN**](https://github.com/ALIGN-analoglayout/ALIGN-public) and [**MAGICAL**](https://github.com/magical-eda/MAGICAL) and this research led to a lot of things. It basically gave a hope to the fellow designers that analog layouts can be automatically generated.
 ## Note
 
- - This project was initially aimed at generating Analog Layouts. However, that seemed to be an Herculean task. So, we tried for Digital Layouts. There are still a lot of things to be done. (Layouts for various PDK's, DRC's etc). While researching about this, we discovered another project that does the exact same thing. You can find it [**here**](https://github.com/ALIGN-analoglayout/ALIGN-public). **This (ALIGN - Analog Layouts Intelligently Generated from Netlists) is a massive multi-million dollar project involving multi-org & multi-institutional NDA's and top researchers in the world and  funded by DARPA, Department of Defense, USA.**
- - After we got to know more about ALIGN, we started pivoting and developing over **ALIGN** infrastructure. We are in touch and working together with researchers from all over the world on **ALIGN**.
  - A usable version of this software is available [**here**](https://codeberg.org/tok/librecell) (Digital Layout Generator). It has been developed by Thomas Kramer. (PhD @ ETH-Zurich).
  - This objective of this project is to replicate the work done by Thomas thereby getting an exponential learning curve.
  - The usage of the tool is quite basic. However, developing the entire toolchain from scratch was a major challenge. 
@@ -178,6 +179,8 @@ You get the following output. This is the Euler Path for the combined graph
  - Euler Path finding problem is a DIV-2/D problem on codeforces.com.
  - [**Euler Path Finding on an Undirected Graph.**](https://cp-algorithms.com/graph/euler_path.html)
  - [**Bridges in a Graph**](https://codeforces.com/blog/entry/68138)
+  - This project was initially aimed at generating Analog Layouts. However, that seemed to be an Herculean task. So, we tried for Digital Layouts. There are still a lot of things to be done. (Layouts for various PDK's, DRC's etc). While researching about this, we discovered another project that does the exact same thing. You can find it [**here**](https://github.com/ALIGN-analoglayout/ALIGN-public). **This (ALIGN - Analog Layouts Intelligently Generated from Netlists) is a massive multi-million dollar project involving multi-org & multi-institutional NDA's and top researchers in the world and  funded by DARPA, Department of Defense, USA.**
+ - After we got to know more about ALIGN, we started pivoting and developing over **ALIGN** infrastructure. We are in touch and working together with the researchers on **ALIGN**.
  
 ## Post Script
 
