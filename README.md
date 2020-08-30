@@ -192,7 +192,8 @@ Layout of bandgap reference design --
   <img width="600" height="600" src="Images/ALIGN_layout.png">
 </p>
 
--For more details, you can check [**here**](https://github.com/thesourcerer8/ALIGN-public/pull/2)
+-For more details, you can check [**here.**](https://github.com/thesourcerer8/ALIGN-public/pull/2)
+-Details on ALIGN architecture can be found [**here.**](http://people.ece.umn.edu/users/sachin/conf/dac19-ALIGN.pdf)
  
 ## Author
 
