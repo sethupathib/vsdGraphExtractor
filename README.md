@@ -182,7 +182,7 @@ You get the following output. This is the Euler Path for the combined graph
 
 - We had a tough time understanding the usage of ALIGN. However, we were able to crack it with some efforts. We were able to get the layouts of the reference designs that came with ALIGN and we tried to run ALIGN on some of our designs. We're not yet sure about the correctness since we haven't done any post layout simulations. Some of the layouts that we obtained can be found below. A tutorial on how to use ALIGN can be found [**here.**](https://1drv.ms/u/s!Ai4WW_jutengg75ZmSpOaznZs51m7Q?e=ebEm8t)
  
- Layout of an Operational Transconductance Amplifier --
+Layout of an Operational Transconductance Amplifier --
  <p align="center">
   <img width="400" height="600" src="Images/ota.png">
 </p>
@@ -192,8 +192,8 @@ Layout of bandgap reference design --
   <img width="600" height="600" src="Images/ALIGN_layout.png">
 </p>
 
--For more details, you can check [**here.**](https://github.com/thesourcerer8/ALIGN-public/pull/2)
--Details on ALIGN architecture can be found [**here.**](http://people.ece.umn.edu/users/sachin/conf/dac19-ALIGN.pdf)
+- For more details, you can check [**here.**](https://github.com/thesourcerer8/ALIGN-public/pull/2) <br/>
+- Details on ALIGN architecture can be found [**here.**](http://people.ece.umn.edu/users/sachin/conf/dac19-ALIGN.pdf)
  
 ## Author
 
