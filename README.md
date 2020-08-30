@@ -191,6 +191,8 @@ Layout of bandgap reference design --
 <p align="center">
   <img width="600" height="600" src="Images/ALIGN_layout.png">
 </p>
+
+-For more details, you can check [**here**](https://github.com/thesourcerer8/ALIGN-public/pull/2)
  
 ## Author
 
