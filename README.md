@@ -178,7 +178,19 @@ You get the following output. This is the Euler Path for the combined graph
  - [**Euler Path Finding on an Undirected Graph.**](https://cp-algorithms.com/graph/euler_path.html)
  - [**Bridges in a Graph**](https://codeforces.com/blog/entry/68138)
  
+## Post Script
 
+- We had a tough time understanding the usage of ALIGN. However, we were able to crack it with some efforts. We were able to get the layouts of the reference designs that came with ALIGN and we tried to run ALIGN on some of our designs. We're not yet sure about the correctness since we haven't done any post layout simulations. Some of the layouts that we obtained can be found below. A tutorial on how to use ALIGN can be found [**here.**](https://1drv.ms/u/s!Ai4WW_jutengg75ZmSpOaznZs51m7Q?e=ebEm8t)
+ 
+ Layout of an Operational Transconductance Amplifier --
+ <p align="center">
+  <img width="400" height="600" src="Images/ota.png">
+</p>
+
+Layout of bandgap reference design --
+<p align="center">
+  <img width="600" height="600" src="Images/ALIGN_layout.png">
+</p>
  
 ## Author
 
