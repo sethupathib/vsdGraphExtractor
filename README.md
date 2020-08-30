@@ -164,6 +164,7 @@ You get the following output. This is the Euler Path for the combined graph
  - Random Graph Generator (This is important for testing the algorithm)
  - To know more about bridges and articulation points in a graph. 
  - I need to solve a lot of problems and get to know about some advanced concepts like Dynamic Programming and Memoization applied on graphs.
+ - Running ALIGN on the reference designs and getting a functionally correct and DRC clean layout.
  
 
 ## Note
