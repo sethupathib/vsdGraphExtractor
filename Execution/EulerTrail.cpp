@@ -53,7 +53,7 @@ void Graph::printEulerTour()
     int u=0;
     for (int i=0;i<V;i++)
     {
-        if(adj[i].size()&1)
+        if(adj[i].size()&1) //Bitwise AND with 1. Checks if the number is odd
         {
             u=i;
             break;
