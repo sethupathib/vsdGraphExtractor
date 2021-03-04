@@ -153,6 +153,10 @@ You get the following output. This is the Euler Path for the combined graph
   <img width="900" height="50" src="Intermediate_Outputs/sample_output.png">
 </p> 
 
+<p align="center">
+  <img width="400" height="500" src="Intermediate_Outputs/sample_output1.jpg">
+</p> 
+
    
  ##  Pending Work
  
