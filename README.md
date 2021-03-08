@@ -11,7 +11,7 @@ A very brief description of this project can be found [**here**](https://www.vls
 
 ## Description
 
-1. The first step is to extract the graph information (edges & nodes etc) from the spice netlist.
+1. The first step is to extract the graph information (edges & nodes etc) from the spice netlist. (The ideal way to do this is to **tree-ify** the netlist. This is a very hard problem and it falls under Tech Mapping Problem.) 
 <p align="center">
   <img width="750" height="400" src="Images/ckt_layout.png">
 </p>
