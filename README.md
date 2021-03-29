@@ -205,7 +205,7 @@ Layout of bandgap reference design --
  
 ## Author
 
-**Sethupathi Balakrishnan**
+**Sethupathi Balakrishnan, EDA Researcher, EDA Lab, NTU-Taiwan**
 
 ## Acknowledgments
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
